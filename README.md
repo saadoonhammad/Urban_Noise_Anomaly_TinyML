@@ -3,5 +3,5 @@ Urban Noise Anomaly Detection on MCUs
 
 This repository contains:
 
-1. Jupyter Notebooks
+1. Notebooks
 2. Data used for study
